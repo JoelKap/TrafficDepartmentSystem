@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "TrafficDepartmentSystem"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-TrafficDepartmentSystem-5cc38479-6780-4f98-9f8d-d2b5ea941f8b;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
